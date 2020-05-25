@@ -1,0 +1,106 @@
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+.navbar
+{
+    height: 180px;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar
+{
+    font-family: 'Changa';font-size: 24px;
+}
+.currency
+{
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+    width: 70%;
+}
+
+body
+{
+    background-image: url(map-4896141_1920.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+label
+{
+    color: ghostwhite;
+    font-size: 26px;
+    font-family: 'Copse';
+    padding-top: 50px;
+}
+
+.col-md-5
+{
+    padding-top: 90px;
+    margin-left: 0;
+    border-radius: 8px;
+}
+
+.dropdown-menu
+{
+    background-image: url(map-4896141_1920.jpg);
+    background-size: auto;
+    font: 20px;
+    font-weight: 400;
+    height: 200px;
+}
+
+.inner
+{
+    font-weight: 600;
+    font-size: 28px;
+    color: darkslategrey;
+    font-family: 'Charm';font-size: 22px;
+}
+
+.inner p
+{
+    font-family: 'Charm';font-size: 22px;
+    margin-top: 10px;
+}
+
+footer
+{
+    background-color: lightsalmon;
+    font-size: 22px;
+    font-family: 'Changa';
+    text-align: center;
+}
+
+footer:hover
+{
+    background-color: lightgoldenrodyellow;
+    font-size: 22px;
+    font-family: 'Changa';
+    text-align: center;
+}
+
+#inr, #usd, #eu, #sl, #tb,#sd
+{
+    margin-top: 1px;
+    margin-bottom: 22px;
+    border-color: black;
+    font-size: 25px;
+    font-weight: 300;
+    box-shadow: 0 1px 1px ;
+    text-align: center;
+    background-color: whitesmoke;
+       color: darkblue;
+}
